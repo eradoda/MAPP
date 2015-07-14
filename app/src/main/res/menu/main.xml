@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:title="@string/search_title"
+
+        app:showAsAction="always"
+        android:icon="@drawable/ic_search_white_48dp"/>
+<!--<menu xmlns:android="http://schemas.android.com/apk/res/android">-->
+    <!--&lt;!&ndash;<item&ndash;&gt;-->
+        <!--&lt;!&ndash;android:id="@+id/action_settings"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:title="@string/action_settings" />&ndash;&gt;-->
+    <!--<item-->
+        <!--android:id="@+id/search"-->
+        <!--android:actionViewClass="android.widget.SearchView"-->
+        <!--android:icon="@drawable/ic_search_black_48dp"-->
+        <!--android:showAsAction="always"-->
+        <!--android:title="@string/search_title" />-->
+</menu>
